@@ -10,3 +10,6 @@ class Player {
         return (add+add2)
     }
 }
+fun multiply(add:Int,add2:Int):Int{
+    return (add*add2)
+}
