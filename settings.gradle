@@ -1,0 +1,3 @@
+include ':mylibraryfunctions'
+include ':app'
+rootProject.name = "MyLibrary"
